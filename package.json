@@ -1,6 +1,6 @@
 {
   "name": "nirmaan",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Bootstrap Caarya Templates",
   "main": "src/index.js",
   "repository": "https://gitlab.com/tce-asset-library/nirmaan/nirmaan.git",
