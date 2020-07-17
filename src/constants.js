@@ -4,6 +4,7 @@ const templates = [
   "express-sequelize-redis",
   "express-sequelize-postgres",
   "express-static-serve-react",
+  "express-grpahql-subscriptions"
 ];
 
 const project_map = {
@@ -15,6 +16,7 @@ const project_map = {
     "https://gitlab.com/caarya-base/express-sequelize-redis.git",
   "express-static-serve-react":
     "https://gitlab.com/caarya-base/express-static-serve-react.git",
+  "express-graphql-subscriptions": "https://github.com/rish-0-0/express-graphql-subscriptions.git",
 };
 
 module.exports = { templates, project_map };

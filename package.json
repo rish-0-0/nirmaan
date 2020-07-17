@@ -3,7 +3,7 @@
   "version": "1.0.8",
   "description": "Bootstrap Caarya Templates",
   "main": "src/index.js",
-  "repository": "https://gitlab.com/tce-asset-library/nirmaan/nirmaan.git",
+  "repository": "https://github.com/rish-0-0/nirmaan.git",
   "author": "Rishabh Anand",
   "license": "ISC",
   "publishConfig": {
