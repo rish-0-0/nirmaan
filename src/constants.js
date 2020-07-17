@@ -4,7 +4,7 @@ const templates = [
   "express-sequelize-redis",
   "express-sequelize-postgres",
   "express-static-serve-react",
-  "express-grpahql-subscriptions"
+  "express-graphql-subscriptions"
 ];
 
 const project_map = {
