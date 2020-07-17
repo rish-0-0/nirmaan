@@ -1,11 +1,19 @@
 # Nirmaan
-
-## Caarya templates bootstrapper
+# Bunch of templates
 
 ## DOCS
 
 - `npm i -g nirmaan`
+- `npx nirmaan`
+
+## To Use
+
+- `npx nirmaan`
+
+If already globally installed
 - `nirmaan`
+
+
 
 ## Currently Available Templates
 
